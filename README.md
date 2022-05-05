@@ -6,6 +6,7 @@ Profile
 -------
 
 I'm an Electronics and Telecommunication Engineer
+[Badges](https://www.youracclaim.com/users/debagnik-kar/badges)
 
 * * *
 
