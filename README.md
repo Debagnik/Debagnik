@@ -1,159 +1,27 @@
-
-Debagnik Kar
-============
-
-Profile
--------
-
-I'm an Electronics and Telecommunication Engineer
-[Badges](https://www.youracclaim.com/users/debagnik-kar/badges)
-
-* * *
-
-### About me
-
-I am an electronics and telecommunication engineering with keen interest in IoT, Cloud Computing and Web Technologies. I am also an embedded system developer with good knowledge in various programming languages such as C/C++, and Python 3. I love structure and order, and like to spend time in fixing little details. I am open-minded to new ideas, I like to collaborate in a team effort, it makes learning more fun and takes less time.
-
-![Debagnik Kar](./view/Images/debagnik_kar.png)
-
-### Details
-
-**Name:**  
-Debagnik Kar  
-**Age:**  
-22 years(2022)  
-**Location:**  
-Patia, Bhubaneswar, Odisha, INDIA  
-
-Experiences
------------
-
-### Education
-
-#### KIIT School of Electronics Engineering
-
-Apr 2022 (Currently pursuing)  
-Jun 2018
-
-**Course - B.Tech (Electronics and Telecommunication), GPA:7.82** B.Tech is an undergraduate academic degree conferred after completion of a 4 year programme of studies at an accredited University. In India B.Tech and B.Eng. are identical and is a 3 – 4 years of academic course depending on the previous level of education. Bhubaneswar, Odisha, India.
-
-#### Midnapore Collegiate School
-
-Apr 2016  
-Jun 2018
-
-**Course: WBCSHE-Science (HSE), GPA: 6.78** West Bengal Council of Higher Secondary Education is a state controlled council for Higher Secondary Education. I graduated HSE in science track which consists of the subjects Advanced Physics, Chemistry and Mathematics along with English and Bengali language and literature, with an optional elective, (Digital Electronics and Computer Science in my case). Midnapore, West Bengal, India
-
-#### Dooars International Public School
-
-May 2014  
-Jun 2016
-
-**Course: CBSE-Standard Secondary Education, GPA: 7.4** Central Board of Secondary Education is a council controlled by the union government of India and is responsible for conducting examination for HSE and SE students, It follows the curriculum provided by NCERT which included subjects like Science (physics, chemistry, biology), Mathematics, Social Sciences (Geography, History, Political Sciences and economics), English, Bengali, IT Fundamentals and Disaster management. Cooch Behar, West Bengal, India
+# 💫 About Me:
+I am a Software Developer and an Electronics and Telecommunication Engineer.
+I have a keen interest in IoT, Cloud Computing, cyber security, blockchain, and cryptography. I'm also an embedded system developer with good knowledge of various programming languages like C/C++, Java, and Python 3. Oh, and I'm always up for talking about AI and Machine Learning too! I absolutely love structure and order, and you'll often find me fixing little details. I'm open-minded and love exploring new ideas, and I thrive in collaborative team efforts. Learning becomes more fun and efficient when we work together! I am currently working fulltime at IBM 
 
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rak_kingabed) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rakkingabed) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/DebagnikK) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@Rak_Kingabed) 
 
-Abilities
----------
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=for-the-badge&logo=Apache%20Ant&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![AZUREDEVOPS](https://img.shields.io/badge/azuredevops-0078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white&color=%230078D7) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![SPLUNK](https://img.shields.io/badge/splunk-000000.svg?style=for-the-badge&logo=splunk&color=%23000000) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white) ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white) ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white) ![Zigbee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white) ![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Debagnik&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Debagnik&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Debagnik&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-* * *
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Debagnik&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### Skills
 
-*   Computer Programming
-*   Embedded Systems
-*   Internet of Things
-*   Cryptography
-*   Cybersecurity and ethical hacking
-*   Computer Networking
-*   Cloud Computing
-*   Web Technologies
-*   Database Management
-*   Blockchain
-*   IT and Tech Support
-*   Operating Systems
-*   Robotic Process Automation
-*   Computer Simulation
-*   Video Editing
-*   Object Oriented Programming
-*   SEO/SMO, DigiMarketing
-*   Data Science and Analysis
-*   Machine Learning
-*   Version Control
-*   VLSI Design
-*   Digital Signal Processing
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Debagnik&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-  
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 200px;"/>
 
-My project are mostly made public to Github, Have a look
-
-[See projects on Github](https:github.com/Debagnik)
-
-* * *
-
-### Langauges
-
-*   Bangla (Mother Tongue)
-*   English (Daily Use)
-*   Hindi (Can communicate)
-*   Japanese (アニメから日本語を学びました)
-
-### Tools
-
-*   C/C++ (GCC/G++)
-*   Python 3
-*   Embedded C
-*   Arduino IDE
-*   Visual Studio Code
-*   Kali-Linux
-*   Cryptool 2
-*   Cisco Packer Tracer
-*   Amazon Web Services
-*   Google Cloud Platform
-*   MySQL
-*   Redis
-*   Blockchair
-*   WindowsOS (XP to 10)
-*   Microsoft Office Suite
-*   Ubuntu OS (Desktop/Server)
-*   Cent OS (Desktop/Server)
-*   Real-Time OS (RTOS)
-*   Robotics OS
-*   UI Path
-*   Cyberlink PowerDirector 18
-*   Google analytics
-*   Inspectlet
-*   Notepad ++
-*   MATLAB
-*   Git/Github
-*   HTML 5.0
-*   CSS 3.0
-*   JavaScript
-*   Proteus Pro 8
-*   Easy EDA
-*   System Verilog
-*   Processing 3 IDE (Java)
-*   ATT M2X
-*   ThinkSpeak
-*   Wire Shark
-
-Contact
--------
-
-“You can't cross the ocean merely by standing and staring at the water  
-\-Rabindranath Tagore, (Noble prize acceptance speech)
-
-* * *
-
-*    [![Instagram Icon for Rak_Kingabed](./view/Images/insta-01.png) Follow on Instagram](https://www.instagram.com/rak_kingabed/)
-*   [![Linkedin Icon for Debagnik Kar](./view/Images/linkedin-01.png)Connect using Linkedin](https://linkedin.com/in/debagnikkar)
-*   [![Github Icon for Debagnik Kar](./view/Images/github-01.png)Explore my projects on Github](https://github.com/Debagnik)
-
-*   [![youtube Icon for Rak_Kingabed](./view/Images/youtube-01.png)Subscribe me on Youtube](https://www.youtube.com/channel/UC5TJ5j8xY9f-LNT2TbQpttQ)
-*   [![spotify for Rak_Kingabed](./view/Images/spotify-01.png)Stream my music at Spotify](https://open.spotify.com/artist/5dFq7tR1ZJpQLnUvmS4oK5)
-*   [![email Icon for debagnikkar@outlook.com](./view/Images/email-01.png)Send an Email to me](mailto:debagnikkar@outlook.com)
-
-* * *
-
-©Debagnik Kar 2020  
-Made with ❤ at KIIT
+---
+[![](https://visitcount.itsvg.in/api?id=Debagnik&icon=0&color=0)](https://visitcount.itsvg.in)
