@@ -20,8 +20,12 @@ I have a keen interest in IoT, Cloud Computing, cyber security, blockchain, and 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Debagnik&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+### 👁️ Profile Views
+---
+![Visitor Count](
+https://profile-counter.glitch.me/Debagnik/count.svg)
+
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 200px;"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=Debagnik&icon=0&color=0)](https://visitcount.itsvg.in)
+
