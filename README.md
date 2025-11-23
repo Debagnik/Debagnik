@@ -22,10 +22,6 @@ I have a keen interest in IoT, Cloud Computing, cyber security, blockchain, and 
 
 ### 👁️ Profile Views
 ---
-![Visitor Count](
-https://profile-counter.glitch.me/Debagnik/count.svg)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 200px;"/>
+[https://profile-counter.glitch.me/Debagnik/count.svg](https://count.getloli.com/@Github-Profile?name=Github-Profile&theme=miku&padding=8&offset=10&align=top&scale=1.2&pixelated=1&darkmode=auto)
 
 
