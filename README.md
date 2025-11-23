@@ -14,7 +14,7 @@ I have a keen interest in IoT, Cloud Computing, cyber security, blockchain, and 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Debagnik&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![visitor Count Miku](https://github-profile-trophy.vercel.app/?username=Debagnik&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Debagnik&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 ### 🔝 Top Contributed Repo
@@ -22,6 +22,5 @@ I have a keen interest in IoT, Cloud Computing, cyber security, blockchain, and 
 
 ### 👁️ Profile Views
 ---
-[https://profile-counter.glitch.me/Debagnik/count.svg](https://count.getloli.com/@Github-Profile?name=Github-Profile&theme=miku&padding=8&offset=10&align=top&scale=1.2&pixelated=1&darkmode=auto)
-
-
+![Visitor Count](
+https://count.getloli.com/@Github-Profile?name=Github-Profile&theme=miku&padding=8&offset=10&align=top&scale=1.2&pixelated=1&darkmode=auto)
